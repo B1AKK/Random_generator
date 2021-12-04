@@ -1,3 +1,4 @@
+#include <cmath>
 #include "Random1.h"
 
 double my_rand::Random::random()
